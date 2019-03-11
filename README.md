@@ -42,7 +42,7 @@ the items he is going to buy.
 ## What are the project milestones and expected timeline ?
 19/03-21/03: Understand Dataset
 
-22/03-25/03: Read papers on recommender systems [https://recsys.acm.org/blog/] (https://recsys.acm.org/blog/) 
+22/03-25/03: Read papers on recommender systems [https://recsys.acm.org/blog/](https://recsys.acm.org/blog/) 
 
 *24/03*: Prepare for project progress review
 (Tentative date: 25-30th March)
