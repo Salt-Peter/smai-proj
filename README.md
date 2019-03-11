@@ -44,7 +44,7 @@ the items he is going to buy.
 
 22/03-25/03: Read papers on recommender systems [https://recsys.acm.org/blog/](https://recsys.acm.org/blog/) 
 
-*24/03*: Prepare for project progress review
+**24/03**: Prepare for project progress review
 (Tentative date: 25-30th March)
 
 26/03-15/04: Build models / Predict / Optimize
@@ -53,7 +53,7 @@ the items he is going to buy.
 07/04-15/04: Iteration 3
 
 
-*25/04*: Begin Final Report + Final Presentation
+**25/04**: Begin Final Report + Final Presentation
 (Due Date for report and PPT submission: 30th April, 10AM)
 
 
