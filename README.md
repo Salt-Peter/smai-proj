@@ -61,4 +61,5 @@ the items he is going to buy.
 
 
 
-
+# Google drive dataset link
+https://drive.google.com/open?id=1RwKszkZIOUyv13sQ-SNlhS1yizIJZc7-
